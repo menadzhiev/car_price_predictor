@@ -4,3 +4,11 @@
     <img src="https://imgur.com/JAVmJYB.jpg" alt="ФЭН делает проект по андану">
 </div>
 
+
+<figure>
+  <p align="center">
+    <img src="https://imgur.com/JAVmJYB.jpg">
+  </p>
+  <figcaption>Описание картинки</figcaption>
+</figure>
+
