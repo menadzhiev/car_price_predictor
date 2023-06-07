@@ -8,9 +8,8 @@
 
 ### Шаг №1: Сбор данных
 ---
-* [Парсинг](https://github.com/menadzhiev/car_price_predictor/blob/main/Парсер.ipynb)
-
 Для получения необходимых характеристик американского рынка подержанных автомобилей мы спарсили данные с сайта [cars.com](https://www.cars.com/), которые в последствии были собраны в [таблицу](https://github.com/menadzhiev/car_price_predictor/blob/main/таблицы%20с%20данными/cars_df.csv), требующую дальнейшей обрабоки.
+* [Парсинг](https://github.com/menadzhiev/car_price_predictor/blob/main/Парсер.ipynb)
 
 ### Шаг №2: Предварительная обработка данных
 ---
