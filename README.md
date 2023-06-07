@@ -13,8 +13,7 @@
 ### Шаг №2: Предварительная обработка данных
 * [Обработка данных](https://github.com/menadzhiev/car_price_predictor/blob/main/Обработка%20данных.ipynb)
 
-### Шаг №3: EDA
-* [EDA](https://github.com/menadzhiev/car_price_predictor/blob/main/EDA.ipynb)
+### Шаг №3: [EDA](https://github.com/menadzhiev/car_price_predictor/blob/main/EDA.ipynb)
 
 
 ### Шаг №4: Проверка гипотез и добавление новых признаков
